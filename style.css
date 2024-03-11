@@ -85,6 +85,10 @@ img{
     .choicses{
         gap: 1rem;
     }
+    h1{
+        height: 2.5rem;
+        line-height: 2.5rem;
+    }
 
 
 }
