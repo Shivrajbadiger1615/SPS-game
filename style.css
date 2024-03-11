@@ -63,7 +63,7 @@ img{
 
 @media (max-width:786px){
     #msg{
-        font-size: 1.3rem;
+        font-size: 1rem;
     }
 
     #user_score,#comp_score{
